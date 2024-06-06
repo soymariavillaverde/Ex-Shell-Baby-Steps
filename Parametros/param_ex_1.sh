@@ -1,5 +1,6 @@
 echo "Este es el primer ejercicio de parámetros:"
 echo "------------------------------------------"
+echo ""
 
 echo "Ingresa tres parámetros"
 read -p "Primer parámetro: " firstParam

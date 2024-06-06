@@ -1,5 +1,6 @@
 echo "Este es el segundo ejercicio de variables:"
 echo "------------------------------------------"
+echo ""
     
     echo "¿Cuál es tu actividad favorita?"
     read favoriteActivity

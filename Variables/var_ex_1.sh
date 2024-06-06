@@ -1,5 +1,6 @@
 echo "Este es el primer ejercicio de variables:"
 echo "------------------------------------------"
+echo ""
     
     myName="María";
     myAge=30;
