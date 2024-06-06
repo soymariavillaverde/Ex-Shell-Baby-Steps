@@ -1,8 +1,9 @@
-    echo "Este es el primer ejercicio de variables:"
+echo "Este es el primer ejercicio de variables:"
+echo "------------------------------------------"
     
     myName="María";
     myAge=30;
     myCity=Madrid;
 
-    echo "Mi nombre es $myName, tengo $myAge años y vivo en $myCity"
+echo "Mi nombre es $myName, tengo $myAge años y vivo en $myCity"
  
