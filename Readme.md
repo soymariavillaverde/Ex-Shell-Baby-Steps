@@ -1,6 +1,7 @@
 # Ejercicio Shell Baby Steps
 Este ejercicio está pensado para familiarizarse con los comandos básicos de Shell y el concepto de scripting.
 
+Para ejecutar los comandos bastará con introducir por terminal: _sh + nombreDelArchivo (o el relative path si fuese necesario)_
 
 ## Trabajo:
 
