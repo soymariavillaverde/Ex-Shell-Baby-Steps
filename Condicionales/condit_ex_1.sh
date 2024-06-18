@@ -8,7 +8,7 @@ echo ""
 
 if [ "$(whoami)" != "root" ]; then
     echo "No tiene acceso como root"
-    # exit 1
+    exit 1
 else
     echo "Usted es root"
 fi
